@@ -1,0 +1,14 @@
+/Users/bartekromek/wsb/Tablica1/Tablica1/bin/Debug/net8.0/Tablica1
+/Users/bartekromek/wsb/Tablica1/Tablica1/bin/Debug/net8.0/Tablica1.deps.json
+/Users/bartekromek/wsb/Tablica1/Tablica1/bin/Debug/net8.0/Tablica1.runtimeconfig.json
+/Users/bartekromek/wsb/Tablica1/Tablica1/bin/Debug/net8.0/Tablica1.dll
+/Users/bartekromek/wsb/Tablica1/Tablica1/bin/Debug/net8.0/Tablica1.pdb
+/Users/bartekromek/wsb/Tablica1/Tablica1/obj/Debug/net8.0/Tablica1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bartekromek/wsb/Tablica1/Tablica1/obj/Debug/net8.0/Tablica1.AssemblyInfoInputs.cache
+/Users/bartekromek/wsb/Tablica1/Tablica1/obj/Debug/net8.0/Tablica1.AssemblyInfo.cs
+/Users/bartekromek/wsb/Tablica1/Tablica1/obj/Debug/net8.0/Tablica1.csproj.CoreCompileInputs.cache
+/Users/bartekromek/wsb/Tablica1/Tablica1/obj/Debug/net8.0/Tablica1.dll
+/Users/bartekromek/wsb/Tablica1/Tablica1/obj/Debug/net8.0/refint/Tablica1.dll
+/Users/bartekromek/wsb/Tablica1/Tablica1/obj/Debug/net8.0/Tablica1.pdb
+/Users/bartekromek/wsb/Tablica1/Tablica1/obj/Debug/net8.0/Tablica1.genruntimeconfig.cache
+/Users/bartekromek/wsb/Tablica1/Tablica1/obj/Debug/net8.0/ref/Tablica1.dll
